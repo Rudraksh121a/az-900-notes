@@ -1,13 +1,5 @@
 # CapEx vs OpEx and Consumption-Based Model
 
-## Key Topics Covered
-
-- Understanding Capital Expenditure (CapEx)
-- Understanding Operational Expenditure (OpEx)
-- Exploring the Consumption-Based Model
-
----
-
 ## 1. Capital Expenditure (CapEx)
 
 ### Definition
