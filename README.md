@@ -1,66 +1,66 @@
 # 📘 AZ-900 Notes – Topic List
 
-| No. | Topic Name                                                | Link            |
-| --- | --------------------------------------------------------- | --------------- |
-| 1   | High Availability, Scalability, and Cloud Capacity        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/01-High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity/High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity.md) |
-| 2   | CapEx vs OpEx and Consumption-Based Model                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/02-CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model/CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model.md) |
-| 3   | Azure Cloud Service Models & Shared Responsibility        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/03-Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility/Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility.md) |
-| 4   | Identifying the Right Azure Service                       | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/04-Identifying%20the%20Right%20Azure%20Service/Identifying%20the%20Right%20Azure%20Service.md) |
-| 5   | Types of Cloud Computing                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/05-Types%20of%20Cloud%20Computing/Types%20of%20Cloud%20Computing.md) |
-| 6   | Reliability and Predictability in Azure                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/06-Reliability%20and%20Predictability%20in%20Azure/Reliability%20and%20Predictability%20in%20Azure%0A.md) |
-| 7   | Regions and Region Pairs                                  | [View Notes](#) |
-| 8   | Availability Zones                                        | [View Notes](#) |
-| 9   | Azure Core Services: Resource Groups                      | [View Notes](#) |
-| 10  | Subscriptions                                             | [View Notes](#) |
-| 11  | Management Groups                                         | [View Notes](#) |
-| 12  | Azure Resource Manager                                    | [View Notes](#) |
-| 13  | Azure Arc                                                 | [View Notes](#) |
-| 14  | Virtual Machine: Required Resources                       | [View Notes](#) |
-| 15  | Azure Core Compute Resources                              | [View Notes](#) |
-| 16  | Azure Core Networking Resources                           | [View Notes](#) |
-| 17  | Azure Networking: Public vs Private Endpoints             | [View Notes](#) |
-| 18  | Benefits and Usage of Storage Account Resources           | [View Notes](#) |
-| 19  | Azure Database Resources                                  | [View Notes](#) |
-| 20  | Azure Data Movement and Migration Options                 | [View Notes](#) |
-| 21  | Azure Marketplace                                         | [View Notes](#) |
-| 22  | Azure IoT Services                                        | [View Notes](#) |
-| 23  | Azure Big Data and Analytics Services                     | [View Notes](#) |
-| 24  | Azure AI Services                                         | [View Notes](#) |
-| 25  | Serverless Technologies in Azure                          | [View Notes](#) |
-| 26  | DevOps Technologies in Azure                              | [View Notes](#) |
-| 27  | Azure Management Tools                                    | [View Notes](#) |
-| 28  | Azure Advisor                                             | [View Notes](#) |
-| 29  | Azure Resource Manager (ARM) Templates                    | [View Notes](#) |
-| 30  | Azure Monitor Overview                                    | [View Notes](#) |
-| 31  | Azure Service Health                                      | [View Notes](#) |
-| 32  | Microsoft Defender for Cloud                              | [View Notes](#) |
-| 33  | Azure Key Vault                                           | [View Notes](#) |
-| 34  | Microsoft Sentinel                                        | [View Notes](#) |
-| 35  | Azure Dedicated Hosts                                     | [View Notes](#) |
-| 36  | Defense in Depth                                          | [View Notes](#) |
-| 37  | Zero Trust                                                | [View Notes](#) |
-| 38  | Network Security Groups                                   | [View Notes](#) |
-| 39  | Azure Firewall                                            | [View Notes](#) |
-| 40  | Azure DDoS Protection                                     | [View Notes](#) |
-| 41  | Authentication vs Authorization                           | [View Notes](#) |
-| 42  | Microsoft Entra                                           | [View Notes](#) |
-| 43  | Microsoft Entra Directory Services                        | [View Notes](#) |
-| 44  | Describing External Identities in Microsoft Entra         | [View Notes](#) |
-| 45  | Conditional Access, MFA, and SSO in Microsoft Entra       | [View Notes](#) |
-| 46  | Role-Based Access Control                                 | [View Notes](#) |
-| 47  | Azure Resource Locks                                      | [View Notes](#) |
-| 48  | Azure Tags                                                | [View Notes](#) |
-| 49  | Azure Policy                                              | [View Notes](#) |
-| 50  | Microsoft Purview                                         | [View Notes](#) |
-| 51  | Azure Management Hierarchy                                | [View Notes](#) |
-| 52  | Azure Blueprints                                          | [View Notes](#) |
-| 53  | Cloud Adoption Framework                                  | [View Notes](#) |
-| 54  | Privacy & Compliance Resources                            | [View Notes](#) |
-| 55  | Microsoft Trust Center and Azure Compliance Documentation | [View Notes](#) |
-| 56  | Azure Sovereign Regions                                   | [View Notes](#) |
-| 57  | Azure Cost Management – Factors That Affect Cost          | [View Notes](#) |
-| 58  | Azure Cost Reduction Strategies                           | [View Notes](#) |
-| 59  | Pricing Calculator                                        | [View Notes](#) |
-| 60  | Azure Cost Management                                     | [View Notes](#) |
-| 61  | Azure Service Level Agreements                            | [View Notes](#) |
-| 62  | Azure Service Lifecycle                                   | [View Notes](#) |
+| No. | Topic Name                                                | Link                                                                                                                                                                                                                           |
+| --- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | High Availability, Scalability, and Cloud Capacity        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/01-High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity/High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity.md)             |
+| 2   | CapEx vs OpEx and Consumption-Based Model                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/02-CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model/CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model.md)                                       |
+| 3   | Azure Cloud Service Models & Shared Responsibility        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/03-Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility/Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility.md)             |
+| 4   | Identifying the Right Azure Service                       | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/04-Identifying%20the%20Right%20Azure%20Service/Identifying%20the%20Right%20Azure%20Service.md)                                                       |
+| 5   | Types of Cloud Computing                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/05-Types%20of%20Cloud%20Computing/Types%20of%20Cloud%20Computing.md)                                                                                 |
+| 6   | Reliability and Predictability in Azure                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/06-Reliability%20and%20Predictability%20in%20Azure/Reliability%20and%20Predictability%20in%20Azure%0A.md)                                            |
+| 7   | Regions and Region Pairs                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/07-Regions%20and%20Region%20Pairs/Regions%20and%20Region%20Pairs.md)                                                                                 |
+| 8   | Availability Zones                                        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/08-Availability%20Zones/Availability%20Zones.md)                                                                                                     |
+| 9   | Azure Core Services: Resource Groups                      | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/09-Azure%20Core%20Services%3A%20Resource%20Groups/Azure%20Core%20Services%3A%20Resource%20Groups.md)                                                 |
+| 10  | Subscriptions                                             | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/10-Subscriptions/Subscriptions.md)                                                                                                                   |
+| 11  | Management Groups                                         | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/11-Management%20Groups/Management%20Groups.md)                                                                                                       |
+| 12  | Azure Resource Manager                                    | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/12-Azure%20Resource%20Manager/Azure%20Resource%20Manager.md)                                                                                         |
+| 13  | Azure Arc                                                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/13-Azure%20Arc/Azure%20Arc.md)                                                                                                                       |
+| 14  | Virtual Machine: Required Resources                       | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/14-Virtual%20Machine%3A%20Required%20Resources/Virtual%20Machine_Required%20Resources.md)                                                            |
+| 15  | Azure Core Compute Resources                              | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/15-Azure%20Core%20Compute%20Resources/Azure%20Core%20Compute%20Resources.md)                                                                         |
+| 16  | Azure Core Networking Resources                           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/16-Azure%20Core%20Networking%20Resources%20/Azure%20Core%20Networking%20Resources%20.md)                                                             |
+| 17  | Azure Networking: Public vs Private Endpoints             | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/17-Azure%20Networking%3A%20Public%20vs%20Private%20Endpoints/Azure%20Networking%3A%20Public%20vs%20Private%20Endpoints.md)                           |
+| 18  | Benefits and Usage of Storage Account Resources           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/18-Benefits%20and%20Usage%20of%20Storage%20Account%20Resources/Benefits%20and%20Usage%20of%20Storage%20Account%20Resources.md)                       |
+| 19  | Azure Database Resources                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/19-Azure%20Database%20Resources/Azure%20Database%20Resources.md)                                                                                     |
+| 20  | Azure Data Movement and Migration Options                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/20-Azure%20Data%20Movement%20and%20Migration%20Options/Azure%20Data%20Movement%20and%20Migration%20Options.md)                                       |
+| 21  | Azure Marketplace                                         | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/21-Azure%20Marketplace/Azure%20Marketplace.md)                                                                                                       |
+| 22  | Azure IoT Services                                        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/22-Azure%20IoT%20Services/Azure%20IoT%20Services.md)                                                                                                 |
+| 23  | Azure Big Data and Analytics Services                     | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/23-Azure%20Big%20Data%20and%20Analytics%20Services/Azure%20Big%20Data%20and%20Analytics%20Services.md)                                               |
+| 24  | Azure AI Services                                         | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/24-Azure%20AI%20Services/Azure%20AI%20Services.md)                                                                                                   |
+| 25  | Serverless Technologies in Azure                          | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/25-Serverless%20Technologies%20in%20Azure/Serverless%20Technologies%20in%20Azure.md)                                                                 |
+| 26  | DevOps Technologies in Azure                              | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/26-DevOps%20Technologies%20in%20Azure/DevOps%20Technologies%20in%20Azure.md)                                                                         |
+| 27  | Azure Management Tools                                    | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/27-Azure%20Management%20Tools/Azure%20Management%20Tools.md)                                                                                         |
+| 28  | Azure Advisor                                             | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/28-Azure%20Advisor/Azure%20Advisor.md)                                                                                                               |
+| 29  | Azure Resource Manager (ARM) Templates                    | [View Notes](<https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/29-Azure%20Resource%20Manager%20(ARM)%20Templates/Azure%20Resource%20Manager%20(ARM)%20Templates.md>)                                               |
+| 30  | Azure Monitor Overview                                    | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/30-Azure%20Monitor%20Overview/Azure%20Monitor%20Overview.md)                                                                                         |
+| 31  | Azure Service Health                                      | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/31-Azure%20Service%20Health/Azure%20Service%20Health.md)                                                                                             |
+| 32  | Microsoft Defender for Cloud                              | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/32-Microsoft%20Defender%20for%20Cloud/Microsoft%20Defender%20for%20Cloud.md)                                                                         |
+| 33  | Azure Key Vault                                           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/33-Azure%20Key%20Vault/Azure%20Key%20Vault.md)                                                                                                       |
+| 34  | Microsoft Sentinel                                        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/34-Microsoft%20Sentinel/Microsoft%20Sentinel.md)                                                                                                     |
+| 35  | Azure Dedicated Hosts                                     | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/35-Azure%20Dedicated%20Hosts/Azure%20Dedicated%20Hosts.md)                                                                                           |
+| 36  | Defense in Depth                                          | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/36-Defense%20in%20Depth/Defense%20in%20Depth.md)                                                                                                     |
+| 37  | Zero Trust                                                | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/37-Zero%20Trust/Zero%20Trust.md)                                                                                                                     |
+| 38  | Network Security Groups                                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/38-Network%20Security%20Groups/Network%20Security%20Groups.md)                                                                                       |
+| 39  | Azure Firewall                                            | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/39-Azure%20Firewall/Azure%20Firewall.md)                                                                                                             |
+| 40  | Azure DDoS Protection                                     | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/40-Azure%20DDoS%20Protection/Azure%20DDoS%20Protection.md)                                                                                           |
+| 41  | Authentication vs Authorization                           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/41-Authentication%20vs%20Authorization/Authentication%20vs%20Authorization.md)                                                                       |
+| 42  | Microsoft Entra                                           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/42-Microsoft%20Entra/Microsoft%20Entra.md)                                                                                                           |
+| 43  | Microsoft Entra Directory Services                        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/43-Microsoft%20Entra%20Directory%20Services/Microsoft%20Entra%20Directory%20Services.md)                                                             |
+| 44  | Describing External Identities in Microsoft Entra         | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/44-Describing%20External%20Identities%20in%20Microsoft%20Entra/Describing%20External%20Identities%20in%20Microsoft%20Entra.md)                       |
+| 45  | Conditional Access, MFA, and SSO in Microsoft Entra       | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/45-Conditional%20Access%2C%20MFA%2C%20and%20SSO%20in%20Microsoft%20Entra/Conditional%20Access%2C%20MFA%2C%20and%20SSO%20in%20Microsoft%20Entra.md)   |
+| 46  | Role-Based Access Control                                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/46-Role-Based%20Access%20Control/Role-Based%20Access%20Control.md)                                                                                   |
+| 47  | Azure Resource Locks                                      | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/47-Azure%20Resource%20Locks/Azure%20Resource%20Locks.md)                                                                                             |
+| 48  | Azure Tags                                                | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/48-Azure%20Tags/Azure%20Tags.md)                                                                                                                     |
+| 49  | Azure Policy                                              | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/49-Azure%20Policy/%20Azure%20Policy.md)                                                                                                              |
+| 50  | Microsoft Purview                                         | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/50-Microsoft%20Purview/Microsoft%20Purview.md)                                                                                                       |
+| 51  | Azure Management Hierarchy                                | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/51-Azure%20Management%20Hierarchy/Azure%20Management%20Hierarchy.md)                                                                                 |
+| 52  | Azure Blueprints                                          | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/52-Azure%20Blueprints/Azure%20Blueprints.md)                                                                                                         |
+| 53  | Cloud Adoption Framework                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/53-Cloud%20Adoption%20Framework/Cloud%20Adoption%20Framework.md)                                                                                     |
+| 54  | Privacy & Compliance Resources                            | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/54-Privacy%20%26%20Compliance%20Resources/Privacy%20%26%20Compliance%20Resources.md)                                                                 |
+| 55  | Microsoft Trust Center and Azure Compliance Documentation | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/55-Microsoft%20Trust%20Center%20and%20Azure%20Compliance%20Documentation/Microsoft%20Trust%20Center%20and%20Azure%20Compliance%20Documentation.md)   |
+| 56  | Azure Sovereign Regions                                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/56-Azure%20Sovereign%20Regions/Azure%20Sovereign%20Regions.md)                                                                                       |
+| 57  | Azure Cost Management – Factors That Affect Cost          | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/57-Azure%20Cost%20Management%20%E2%80%93%20Factors%20That%20Affect%20Cost/Azure%20Cost%20Management%20%E2%80%93%20Factors%20That%20Affect%20Cost.md) |
+| 58  | Azure Cost Reduction Strategies                           | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/58-Azure%20Cost%20Reduction%20Strategies/Azure%20Cost%20Reduction%20Strategies.md)                                                                   |
+| 59  | Pricing Calculator                                        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/59-Pricing%20Calculator/Pricing%20Calculator.md)                                                                                                     |
+| 60  | Azure Cost Management                                     | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/60-Azure%20Cost%20Management/Azure%20Cost%20Management.md)                                                                                           |
+| 61  | Azure Service Level Agreements                            | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/61-Azure%20Service%20Level%20Agreements/Azure%20Service%20Level%20Agreements.md)                                                                     |
+| 62  | Azure Service Lifecycle                                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/62-Azure%20Service%20Lifecycle/Azure%20Service%20Lifecycle.md)                                                                                       |
