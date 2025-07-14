@@ -5,9 +5,9 @@
 | 1   | High Availability, Scalability, and Cloud Capacity        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/01-High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity/High%20Availability%2C%20Scalability%2C%20and%20Cloud%20Capacity.md) |
 | 2   | CapEx vs OpEx and Consumption-Based Model                 | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/02-CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model/CapEx%20vs%20OpEx%20and%20Consumption-Based%20Model.md) |
 | 3   | Azure Cloud Service Models & Shared Responsibility        | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/03-Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility/Azure%20Cloud%20Service%20Models%20%26%20Shared%20Responsibility.md) |
-| 4   | Identifying the Right Azure Service                       | [View Notes](#) |
-| 5   | Types of Cloud Computing                                  | [View Notes](#) |
-| 6   | Reliability and Predictability in Azure                   | [View Notes](#) |
+| 4   | Identifying the Right Azure Service                       | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/04-Identifying%20the%20Right%20Azure%20Service/Identifying%20the%20Right%20Azure%20Service.md) |
+| 5   | Types of Cloud Computing                                  | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/05-Types%20of%20Cloud%20Computing/Types%20of%20Cloud%20Computing.md) |
+| 6   | Reliability and Predictability in Azure                   | [View Notes](https://github.com/Rudraksh121a/az-900-notes/blob/main/Notes/06-Reliability%20and%20Predictability%20in%20Azure/Reliability%20and%20Predictability%20in%20Azure%0A.md) |
 | 7   | Regions and Region Pairs                                  | [View Notes](#) |
 | 8   | Availability Zones                                        | [View Notes](#) |
 | 9   | Azure Core Services: Resource Groups                      | [View Notes](#) |
