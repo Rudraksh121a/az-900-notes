@@ -10,6 +10,8 @@
 
 ---
 
+img: ![Shared Responsibility Model](images/image.png)
+
 ## 1. Shared Responsibility Model
 
 ### Overview
